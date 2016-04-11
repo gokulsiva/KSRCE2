@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+                android:layout_marginTop="57dp"
+                android:id="@+id/result"
+                android:background="@color/Drawer1">
+
+
+        <RelativeLayout
+
+
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70sp"
+        android:textSize="53sp"
+        android:gravity="center"
+        android:text="@string/wishes"
+        android:id="@+id/textView2"
+        android:textStyle="bold"
+        android:textColor="@color/Red"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <EditText
+        android:layout_width="280sp"
+        android:layout_height="55sp"
+        android:hint="@string/Enter_yr_Regno"
+        android:layout_marginTop="35dp"
+        android:textColorHint="@color/Red"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:id="@+id/textView"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="120sp"
+        android:layout_height="wrap_content"
+        android:text="@string/getResults"
+        android:background="@color/Button"
+        android:id="@+id/result_button"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:clickable="false"/>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="7dp"
+                android:textStyle="bold"
+                android:textColor="@color/Blue"
+                android:gravity="center"
+                android:text="@string/Here_your_results"
+                android:textSize="45sp"
+                android:layout_below="@+id/result_button"
+                android:id="@+id/here_your_results" />
+
+            <ListView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/result_listview"
+                android:layout_below="@+id/here_your_results"
+                android:listSelector="@drawable/list_row_bg"
+                android:divider="@color/list_divider"
+                android:dividerHeight="1dp"/>
+
+
+        </RelativeLayout>
+
+    </ScrollView>

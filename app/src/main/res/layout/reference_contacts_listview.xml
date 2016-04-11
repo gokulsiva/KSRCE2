@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/Drawer1"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="160sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Department"
+        android:textSize="26sp"
+        android:textAlignment="center"
+        android:id="@+id/contact_department"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="160sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Name"
+        android:textSize="26sp"
+        android:textAlignment="center"
+        android:id="@+id/contact_name"
+        android:layout_below="@+id/contact_department"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="160sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Designation"
+        android:textSize="26sp"
+        android:textAlignment="center"
+        android:id="@+id/contact_designation"
+        android:layout_below="@+id/contact_name"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="160sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Contact"
+        android:textSize="26sp"
+        android:textAlignment="center"
+        android:id="@+id/contact_mobile"
+        android:layout_below="@+id/contact_designation"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="220sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="26sp"
+        android:textAlignment="center"
+        android:textColor="@color/Red"
+        android:id="@+id/department_details"
+        android:layout_above="@+id/contact_name"
+        android:layout_toRightOf="@+id/contact_department"
+        android:layout_toEndOf="@+id/contact_department" />
+
+    <TextView
+        android:layout_width="220sp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="26sp"
+        android:layout_marginTop="7sp"
+        android:textAlignment="center"
+        android:id="@+id/name_details"
+        android:textColor="@color/Red"
+        android:layout_below="@+id/contact_department"
+        android:layout_toRightOf="@+id/contact_department"
+        android:layout_toEndOf="@+id/contact_department" />
+
+    <TextView
+        android:layout_width="220sp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="26sp"
+        android:layout_marginTop="7sp"
+        android:textAlignment="center"
+        android:textColor="@color/Red"
+        android:id="@+id/designation_details"
+        android:layout_below="@+id/contact_name"
+        android:layout_toRightOf="@+id/contact_name"
+        android:layout_toEndOf="@+id/contact_name" />
+
+    <EditText
+        android:layout_width="220sp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="26sp"
+        android:layout_marginTop="7sp"
+        android:textAlignment="center"
+        android:id="@+id/contact_details"
+        android:textColor="@color/Red"
+        android:inputType="none"
+        android:backgroundTint="@color/Drawer1"
+        android:textIsSelectable="true"
+        android:layout_below="@+id/contact_designation"
+        android:layout_toRightOf="@+id/contact_mobile"
+        android:layout_toEndOf="@+id/contact_mobile" />
+
+
+</RelativeLayout>

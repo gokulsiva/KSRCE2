@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_marginTop="57dp"
+    android:background="@color/Drawer1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/Red"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:text="Contact us:"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Address:"
+        android:layout_marginTop="10sp"
+        android:textColor="@color/Green"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:id="@+id/textView4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="The Principal,
+K.S.R. College of Engineering,
+K.S.R. Kalvi Nagar,
+Tiruchengode - 637 215,
+Namakkal Dt.,
+Tamilnadu."
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="40dp"
+        android:textColor="@color/Black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/textView5" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mail ID:"
+        android:layout_marginTop="10sp"
+        android:textColor="@color/Green"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:id="@+id/textView6" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="principal@ksrce.ac.in
+info@ksrce.ac.in"
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="40dp"
+        android:textColor="@color/Black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phone:"
+        android:layout_marginTop="10sp"
+        android:textColor="@color/Green"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:id="@+id/textView7" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="04288 - 274213"
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="40dp"
+        android:textColor="@color/Black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/textView8" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fax:"
+        android:layout_marginTop="10sp"
+        android:textColor="@color/Green"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:id="@+id/textView9" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="04288 - 274757"
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="40dp"
+        android:textColor="@color/Black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/textView10" />
+
+
+</LinearLayout>

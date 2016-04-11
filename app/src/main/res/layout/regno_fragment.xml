@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/Drawer1"
+    android:layout_marginTop="57dp"
+    android:id="@+id/loginFragment_id"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="300sp"
+        android:layout_height="50sp"
+        android:id="@+id/regno"
+        android:hint="Enter student's Regno"
+        android:gravity="center"
+        android:textColor="@color/Black"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="83dp" />
+
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="50sp"
+        android:text="GO"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:textColor="@color/Red"
+        android:background="@color/Drawer1"
+        android:id="@+id/regno_go_button"
+        android:layout_below="@+id/regno"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

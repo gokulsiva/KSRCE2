@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PrimaryColor">#2196F3</color>
+    <color name="PrimaryDarkColor">#1976D2</color>
+    <color name="BackGround">#ffffff</color>
+    <color name="Black">#040003</color>
+    <color name="Drawer">#9692ff</color>
+    <color name="Drawer1">#fff7a0</color>
+    <color name="Button">#25030202</color>
+    <color name="Red">#ff0e0e</color>
+    <color name="Blue">#8045d2</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="Green">#129300</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+    <color name="list_divider">#d9d9d9</color>
+
+</resources>

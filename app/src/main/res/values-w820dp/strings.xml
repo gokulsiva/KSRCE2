@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image">imageattribute</string>
+    <string name="test_text">HOME FRAGMENT</string>
+    <string name="clg_name">K.S.R.College of Engineering</string>
+    <string name="clgimg">clgimg</string>
+    <string name="about_us">New Text</string>
+    <string name="clg_img">clg_img</string>
+    <string name="wishes">*All The Best*</string>
+    <string name="RegnoText">Enter Regno here</string>
+    <string name="getResults">Get Results</string>
+    <string name="regnoText">Enter Regno here</string>
+    <string name="Please_result">Please enter your Regno</string>
+    <string name="please_regnoReq">Please enter your Regno</string>
+    <string name="RegnoToast">Please enter your regno</string>
+    <string name="Enter_yr_Regno">Enter Regno</string>
+    <string name="Here_your_results">Here your Results</string>
+    <string name="select_sem">SELECT SEMESTER:</string>
+    <string name="placement_button">New Button</string>
+    <string name="list_in_placement">Large Text</string>
+    <string name="placement_url">your url</string>
+    <string name="slogan">Truth*Knowledge*Peace</string>
+    <string name="info1">\t KSR College of Engineering, a committed institution in education, sprouted in the millennium year 2001. The original name R.R. Engineering College was re-christened as KSR College of Engineering and this reputable institution functions under Aarthi Educational and Charitable Trust, which was fashioned in the year 1997. The trust was founded by Thiru R.Srinivasan BBM., MISTE.</string>
+    <string name="result_subject">Subject</string>
+    <string name="result_grade">Grd</string>
+
+</resources>

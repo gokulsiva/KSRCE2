@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/Drawer1"
+    android:layout_marginTop="57dp"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:textColor="@color/Black"
+        android:textAlignment="center"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Select department you wish to refer"
+        android:id="@+id/textView14"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <Spinner
+        android:layout_width="300sp"
+        android:layout_height="wrap_content"
+        android:id="@+id/department_contacts_spinner"
+        android:layout_marginTop="35sp"
+        android:background="@color/list_row_end_color"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/textView14"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="130sp"
+        android:layout_height="wrap_content"
+        android:text="GO"
+        android:id="@+id/go"
+        android:background="@color/Button"
+        android:layout_below="@+id/department_contacts_spinner"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">KSRCE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="image">imageattribute</string>
+    <string name="test_text">HOME FRAGMENT</string>
+    <string name="descrition">KSR College of Engineering a committed institution in education,sprouted in millennium year 2001. The original name R.R.Engineering College was re-christened as K.S.R.College of Engineering and this reputable institution functions under Aarthi Educational and Charitable Trust,which was fasioned in the year 1997.The trust was founded by Thiru.S.Srinivasan BBM,MISTE. The name KSR is the epitome of Lion.Dr.K.S.Rangasamy MJF,Chairman,KSR group of educational institutions.fmowzsrfjorsmglizspekdofmeps;egiorsgkpsodlmfrsighoddskgmzirgjpzsgprzj</string>
+    <string name="clg_name">K.S.R.College of Engineering</string>
+    <string name="clgimg">clgimg</string>
+    <string name="about_us">About us:</string>
+    <string name="clg_img">clg_img</string>
+    <string name="wishes">*All The Best*</string>
+    <string name="RegnoText">Enter Regno here</string>
+    <string name="getResults">Get Results</string>
+    <string name="regnoText">Enter Regno here</string>
+    <string name="Please_result">Please enter your Regno</string>
+    <string name="please_regnoReq">Please enter your Regno</string>
+    <string name="RegnoToast">Please enter your regno</string>
+    <string name="Enter_yr_Regno">Enter Regno</string>
+    <string name="Here_your_results">Here your Results</string>
+    <string name="select_sem">SELECT SEMESTER:</string>
+    <string name="placement_button">Click to get latest news</string>
+    <string name="list_in_placement">Large Text</string>
+    <string name="placement_url">your url</string>
+    <string name="slogan">Truth*Knowledge*Peace</string>
+    <string name="info1">KSR College of Engineering, a committed institution in education, sprouted in the millennium year 2001. The original name R.R. Engineering College was re-christened as KSR College of Engineering and this reputable institution functions under Aarthi Educational and Charitable Trust, which was fashioned in the year 1997. The trust was founded by Thiru R.Srinivasan BBM., MISTE.</string>
+
+    <string-array name="menu">
+        <item>Home</item>
+        <item>Results</item>
+        <item>Placement</item>
+        <item>Circular</item>
+        <item>Downloads</item>
+        <item>Student Record</item>
+        <item>Reference</item>
+        <item>Contact Us</item>
+        <item>Logout</item>
+        <item>Credits</item>
+    </string-array>
+
+    <string-array name="Account">
+        <item>Select Account</item>
+        <item>Student</item>
+        <item>Staff</item>
+    </string-array>
+    <string-array name="Department">
+        <item>Select Department</item>
+        <item>AUTO</item>
+        <item>CIVIL</item>
+        <item>CS</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>IT</item>
+        <item>MECH</item>
+    </string-array>
+    <string-array name="ug_course">
+        <item>&#8226; B.E. ELECTRONICS &amp; COMMUNICATION \n ENGINEERING</item>
+        <item>&#8226; B.E. ELECTRICAL &amp; ELECTRONICS \n ENGINEERING</item>
+        <item>&#8226; B.E. COMPUTER SCIENCE \n ENGINEERING</item>
+        <item>&#8226; B.E. MECHANICAL ENGINEERING</item>
+        <item>&#8226; B.E. CIVIL ENGINEERING</item>
+        <item>&#8226; B.E. AUTOMOBILE ENGINEERING</item>
+        <item>&#8226; B.Tech INFORMATION TECHNOLOGY</item>
+    </string-array>
+    <string-array name="pg_course">
+        <item>&#8226; M.E. COMMUNICATION SYSTEMS</item>
+        <item>&#8226; M.E. EMBEDDED SYSTEMS \n TECHNOLOGIES</item>
+        <item>&#8226; M.E. VLSI DESIGN</item>
+        <item>&#8226; M.E. POWER ELECTRONICS AND DRIVES</item>
+        <item>&#8226; M.E. STRUCTURAL ENGINEERING</item>
+        <item>&#8226; M.E. COMPUTER SCIENCE AND \n ENGINEERING</item>
+        <item>&#8226; MCA COMPUTER APPLICATIONS</item>
+        <item>&#8226; MBA BUSINESS ADMINISTRATION</item>
+    </string-array>
+    <string name="ece_text">\t\tTo prepare our country for facing the challenges in communication technology of the current century this department was started in 2001. The department of Electronics and communication Engineering is accredited by NBA and certified by ISO. The Department has an outstanding track record and has consistently produced Electronics &amp; Communication Engineering graduates of exceptional quality and caliber. The educational objective for Electronics &amp; Communication Engineering program are designed to produce competent engineers who are ready to contribute effectively to the advancement of electronics &amp; Communication Engineering causes and to accommodate the needs of the community.\n\t\tThe department offers one Under Graduate Programme (B.E- ECE) and one post-graduate programme (M.E Embedded System Technologies) to cater to the ever challenging needs of technical excellence in all areas of Electronics and Communication Engineering.</string>
+    <string name="eee_text">\t\tThe department offers one Under Graduate Programme (B.E- ECE) and one post-graduate programme (M.E Embedded System Technologies) to cater to the ever challenging needs of technical excellence in all areas of Electronics and Communication Engineering.\n\t\tEvery year the EEE students association is organizing a National Technical symposium, named "GRID", to motivate the students in co-curricular and extra-curricular activities. The Department periodically conducts value added courses and training programs for students to improve their technical skills in theory and practice. The Department also runs the IEEE students branch.</string>
+    <string name="cs_text">\t\tThe Department of Computer Science and Engineering (CSE) was established in 2001. Ever since its inception, the department has been a pioneering academic centre for higher education, research, and innovation in key areas of computer science. The constantly changing dynamics of this Engineering stream poses challenges to students to stay updated with the latest developments. Our qualified faculty and advanced labs ensure that our students are well prepared to take on these challenges. As a result Our (M.E. – C.S.E.) was started in 2007 to meet all those challenges. The department attracts talented students from all over India. There are currently 19 research scholars on roll. All graduates of CSE find excellent placements in research-oriented industries and top ranking MNC’s.</string>
+    <string name="it_text">\t\tThis is an exciting period for the Information Technology as the rapidly changing technology creates many opportunities and challenges. Department of Information Technology is prepared to meet the challenges and is playing a leadership role in shaping the education of the 21st Century by providing unique educational and research opportunities in the forefront of Computer Engineering, Information Technology and their applications.\n\t\tThe Department of Information Technology was started in 2001, offering B.Tech.(IT) programme under the affiliation of Periyar University ,With excellent laboratory and research facilities, the programme was continuously affiliated by the Anna University Chennai up to 2006 and later by Anna University Coimbatore. Accreditation of NBA committee for the under graduate programme of this department was obtained in the year 2008.\n\t\tThe students are focused with the use of conceptual understanding of core domain areas in Computing as well as enhanced programming skills disseminating their analytical abilities. Our aim is to provide our students the lifelong learning and leadership skills that enable them to grow in their professions and advance to positions of responsibility by effective Industry-Institute Interaction. The Department has an excellent placement record and the placed students are in prestigious software industries all over the world.</string>
+    <string name="mech_text">\t\tThe Department of Mechanical Engineering is started in 2005 and is equipped with the best resources to enrich the department ensuring high quality education to the students. The intense professional will of the faculty is the root for the sustained excellence of the department.\n\t\tWe envision to achieve recognition as an excellent technical educational institution, making expert, ethical and responsible engineers, technologists and managers who will significantly contribute to environment friendly sustainable growth of the nation and the world.</string>
+    <string name="civil_text">\t\tThe Department, born with the institute in 2002, has dedicated itself to improving quality education, academic excellence and developing both community oriented and industry based research and consultancy. With full fledged laboratories, highly qualified faculty, advanced equipments and testing machines and professional software, the department has been demonstrating remarkable progress to achievement.\n\t\tThe department is also engaged in consultancy, helping industries for product development and students for their research projects. Our clients includes District Rural Development Agency (DRDA), Public Works Department, Municipalities, Southern Railway and Private agencies etc.\n\t\tThe department has well equipped laboratories to meet the requirements of under and post graduate courses in Civil Engineering and also to facilitate consultancy and material testing.</string>
+    <string name="auto_text">\t\tThe Department of Automobile Engineering is a community of faculty, staff, students, alumni, and partners/sponsors working together to create a stimulating, diverse and positive environment of learning and discovery. We strive to provide the highest quality of education to our students, so they can become true leaders and outstanding citizens. We constantly endeavor for research activities that will contribute to the well-being of people, the economy and the environment in the state, the nation and throughout the world. As a community of individuals who value true excellence and preeminence, we seek to challenge and empower one another to reach our full potential while caring for others and our environment.</string>
+    <string name="mba_text">\t\tThe Department of Business Administration was started in the year 2006, under affiliation of Anna University with intake of 60 students and the intake was increased to 120 students since 2011. The department committed itself to improve academic excellence towards industrial standards with the state of the art infrastructure. The department dedicated to impart need based and value based management education to develop talented managers to face future global challenges and align them to todays societal needs. The entire infrastructure at the campus supports the student to groom as future corporate leaders by providing all support systems to learn at prodigious rate.</string>
+    <string name="mca_text">\t\tMaster of Computer Applications (MCA)is a three-year (six semesters) professional Masters Degree in computer science awarded in India. The course was designed to meet the growing demand for qualified professionals in the field of Information Technology. It is a postgraduate course that can be taken up after obtaining a Bachelors Degree. The MCA programme is inclined more toward Application Development and thus has more emphasis on latest programming language and tools to develop better and faster applications.\n\t\tThe MCA program focuses on providing a sound theoretical background as well as good practical exposure to students in the relevant areas. It is intended to provide a modern, industry-oriented education in applied computer science. It aims at producing trained professionals who can successfully meet the demands of the information technology industry.\n\t\tStudents are trained in the fields of Systems Designing, Application Software Development, Enterprise Resource Planning, Computer Networks, System Administration, Web Designing and Development, Database Administration,Parallel and Vector Processing, Data Mining and Warehousing, etc.</string>
+    <string name="embedded_text">\t\tTo prepare our country for facing the challenges in communication technology of the current century this department was started in 2001. The department of Electronics and communication Engineering is accredited by NBA and certified by ISO. The Department has an outstanding track record and has consistently produced Electronics &amp; Communication Engineering graduates of exceptional quality and caliber. The educational objective for Electronics &amp; Communication Engineering program are designed to produce competent engineers who are ready to contribute effectively to the advancement of electronics &amp; Communication Engineering causes and to accommodate the needs of the community.</string>
+    <string name="communication_text">\t\tTo prepare our country for facing the challenges in communication technology of the current century this department was started in 2001. The department of Electronics and communication Engineering is accredited by NBA and certified by ISO. The Department has an outstanding track record and has consistently produced Electronics &amp; Communication Engineering graduates of exceptional quality and caliber. The educational objective for Electronics &amp; Communication Engineering program are designed to produce competent engineers who are ready to contribute effectively to the advancement of electronics &amp; Communication Engineering causes and to accommodate the needs of the community.</string>
+    <string name="vlsi_text">\t\tVery-large-scale integration (VLSI) is the process of creating an integrated circuit (IC) by combining thousands of transistors into a single chip. VLSI began in the 1970s when complex semiconductor and communication technologies were being developed. The microprocessor is a VLSI device. Before the introduction of VLSI technology most ICs had a limited set of functions they could perform. An electronic circuit might consist of a CPU, ROM, RAM and other glue logic. VLSI lets IC designers add all of these into one chip.</string>
+    <string name="structural_text">\t\tStructural engineers analyze, design, plan, and research structural components and structural systems to achieve design goals and ensure the safety and comfort of users or occupants. Their work takes account mainly of safety, technical, economic and environmental concerns, but they may also consider aesthetic and social factors.\n\t\tStructural engineers ensure that buildings and bridges are built to be strong enough and stable enough to resist all appropriate structural loads (e.g., gravity, wind, snow, rain, seismic (earthquake), earth pressure, temperature, and traffic) in order to prevent or reduce loss of life or injury. They also design structures to be stiff enough to not deflect or vibrate beyond acceptable limits. Human comfort is an issue that is regularly considered in the limits. Fatigue is also an important consideration or bridges and for aircraft design or for other structures which experience a large number of stress cycles over their lifetimes. Consideration is also given to durability of materials against possible deterioration which may impair performance over the design lifetime.</string>
+    <string name="power_text">\t\tPower electronics is the application of solid-state electronics to the control and conversion of electric power. It also refers to a subject of research in electronic and electrical engineering which deals with the design, control, computation and integration of nonlinear, time-varying energy-processing electronic systems with fast dynamics.\n\t\tThe first high power electronic devices were mercury-arc valves. In modern systems the conversion is performed with semiconductor switching devices such as diodes, thyristors and transistors, pioneered by R. D. Middlebrook and others beginning in the 1950s. In contrast to electronic systems concerned with transmission and processing of signals and data, in power electronics substantial amounts of electrical energy are processed. An AC/DC converter (rectifier) is the most typical power electronics device found in many consumer electronic devices, e.g. television sets, personal computers, battery chargers, etc. The power range is typically from tens of watts to several hundred watts. In industry a common application is the variable speed drive (VSD) that is used to control an induction motor. The power range of VSDs start from a few hundred watts and end at tens of megawatts.</string>
+    <string name="result_subject">Subject</string>
+    <string name="result_grade">Grd</string>
+
+</resources>
